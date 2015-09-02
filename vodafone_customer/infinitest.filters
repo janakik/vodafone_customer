@@ -1,0 +1,2 @@
+# Disable http://infinitest.github.io/ for all tests in this project
+.*
